@@ -89,10 +89,9 @@ margin-bottom: 40px;
   width: 100%;
 
 }
-.funtion-images
-{
-margin: auto;
-width: 40%;
+.function-images {
+  margin: auto;
+  width: 80%;
 }
 
 .function-images ul {
@@ -100,7 +99,7 @@ width: 40%;
     display: table-cell;
       margin-left: 150px;
         }
-        
+
 .function-image {
   float: left;
   margin-bottom: 40px;
