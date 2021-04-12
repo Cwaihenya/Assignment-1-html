@@ -1,0 +1,42 @@
+body {
+  background-color: grey;
+}
+h3 {
+	text-align: center;
+}
+li {
+  /* list先頭の黒丸を削除 */
+  list-style: none;
+}
+
+/* Add styles to 'container' class */
+.container {
+	padding: 12px 24px 24px 24px;
+	margin: 48px 12px;
+	background: #E3F2FD;
+	border-radius: 4px;
+}
+form{
+  margin: 0 30px;
+}
+label.radio {
+	cursor: pointer;
+  text-indent: 10px;
+  overflow: visible;
+  display: inline-block;
+  position: relative;
+  margin-bottom: 15px;
+}
+label{
+  text-indent: 15px;
+
+}
+h2 {
+  color: green;
+  font-size: 16px;
+}
+h1 {
+  color: purple;
+  font-size: 16px;
+}
+p{center  }
