@@ -87,31 +87,37 @@ margin-bottom: 40px;
     background-color: #D3D3D3;
     height: 260px;
   width: 100%;
-
 }
 .function-images {
   margin: auto;
   width: 80%;
+  display: flex;
+  justify-content: center;
+}
+
+.function-images li {
+  text-align: center;
 }
 
 .function-images ul {
     display: table;
     display: table-cell;
       margin-left: 150px;
+      /*text-align: center;*/
         }
 
 .function-image {
   float: left;
   margin-bottom: 40px;
   height: auto;
-  padding: -60px;
-  margin-left: 180px;
+  /*padding: -60px;*/
+  /*margin-left: 180px;*/
 }
 
 .function-image img
 {width: 20px;
   margin: 0;
-  padding: -60px;
+  /*padding: -60px;*/
   font-size: 0;
 
 }
